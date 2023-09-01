@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
 Link to deployed application: https://warrenk0126.github.io/WK-Code-Refactored/
+
+Starter code had been refactored to improve accessability.
 ## Starter code
 ![Starter code](./assets/images/before.png)
 ## Submitted Code
